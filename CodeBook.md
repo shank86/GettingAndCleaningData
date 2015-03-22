@@ -1,4 +1,4 @@
-## CookBook
+## CodeBook
 This is a code book that describes the variables, data and any transformations or work that was performed to clean up the data
 
 ### Tidy Mean
